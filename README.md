@@ -757,6 +757,19 @@ jobs:
 - Flutter widget optimization (const, keys)
 
 ---
+##  git commit history
+
+git commit -m "Initial backend setup"
+git commit -m "Add Supabase integration"
+git commit -m "Implement CRUD APIs"
+git commit -m "Add task history tracking"
+git commit -m "Deploy backend on Render"
+git commit -m "Initial Flutter UI"
+git commit -m "Dashboard implementation"
+git commit -m "Task edit and delete"
+git commit -m "Error handling improvements"
+git commit -m "Final UI polish"
+
 
 ## 📄 License
 

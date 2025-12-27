@@ -2,6 +2,9 @@
 
 An intelligent task management system that automatically classifies and prioritizes tasks using keyword-based analysis. Built with Flutter for the frontend and Node.js/Express with Supabase for the backend.
 
+## Live Backend URL
+https://smart-site-manager.onrender.com/
+
 ## 📋 Table of Contents
 
 - [Project Overview](#-project-overview)
